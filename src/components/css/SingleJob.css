@@ -1,0 +1,11 @@
+.jobDetails{
+    font-size: 1rem;
+}
+.job-details {
+    background: linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url('https://png.pngtree.com/background/20210710/original/pngtree-recruitment-background-banner-picture-image_1037995.jpg') center center no-repeat;
+    background-size: cover;
+    background-color: #EEF9FF;
+    height: 300px;
+    box-shadow: 2px red;
+   
+}

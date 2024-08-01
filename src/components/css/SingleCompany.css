@@ -1,0 +1,33 @@
+.comDeatils{
+    background-color: #fff;
+}
+.rjob{
+  font-size: 1.5rem;
+}
+
+.company-header {
+    background: linear-gradient(rgba(43, 57, 64, .5), rgba(43, 57, 64, .5)), url('https://png.pngtree.com/background/20210710/original/pngtree-company-profile-corporate-culture-brochure-cross-page-design-background-material-picture-image_1011696.jpg') center center no-repeat;
+    background-size: cover;
+    height: 280px;
+  }
+  .searchCom{
+    background-color: #2d2d2d;
+    height: 38px;
+    color:#fff;
+    font-size: 13px;
+    padding: 10px 29px;
+    border-radius: 20px;
+  }
+  .searchCom:hover{
+    background-color: #119BFF;
+    color: #fff;
+  }
+  .com {
+    display: block;
+    box-shadow: 0 0 45px rgba(0, 0, 0, .09);
+    border: 1.5px solid transparent;
+    transition: .5s;
+}
+.rjob{
+  background-color:"#003366" !important;
+}

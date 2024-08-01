@@ -1,0 +1,74 @@
+.form_style {
+    position: relative;
+    outline: 0px;
+    margin: auto;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: rgb(231, 235, 240);
+    border-image: initial;
+    width: 100%;
+  }
+
+  .auth_style {
+    position: relative;
+    outline: 0px;
+    margin: auto;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: rgb(231, 235, 240);
+    border-image: initial;
+    width: 34%;
+  }
+  
+  .border-style {
+    border-radius: 10px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    /* background-color: #7FFFD4 !important, */
+    
+  }
+
+  .btnB:hover{
+    background-color: #fff;
+
+  }
+
+  .modal {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    background-color: black;
+    padding: 1rem;
+    text-align: center;
+    width: 30rem;
+    z-index: 10;
+    position: fixed;
+    top: 20vh;
+    left: calc(50% - 15rem);
+  }
+  .btn--alt {
+    background-color: #fff;
+    border-radius: 25px;
+    color: #fff;
+  }
+  
+  .btn--alt:hover {
+    background-color: #f8dae9;
+    color: #2d2d2d;
+  }
+  
